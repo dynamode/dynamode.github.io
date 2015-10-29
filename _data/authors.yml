@@ -1,0 +1,19 @@
+# Authors
+
+# user_name:
+#   name: First Last
+#   web: www.my-website.com
+#   bio: One line bio goes here
+#   avatar: photo in /images folder
+#   github:  
+#   linkedin:
+
+# example
+christopher_aicher:
+    name: Christopher Aicher
+    web: aicherc.github.io
+    bio: Phd Student in Statistics
+    avatar: W-Logo_Purple_Hex.png
+    github: aicherc
+    linkedin: aicherc
+

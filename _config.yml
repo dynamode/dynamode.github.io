@@ -1,0 +1,40 @@
+# Site wide configuration
+
+title:            Dynamode Lab
+locale:           en_US
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    redcarpet
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+# Site owner
+owner:
+  name: Dynamode
+  avatar: W-Logo_Purple_Hex.png
+  bio: "Emily B. Fox's research group at the University of Washington."
+  email:
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: dynamode #username
+  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
