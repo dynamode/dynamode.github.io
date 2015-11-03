@@ -4,5 +4,3 @@ title: About the lab
 tags: []
 ---
 
-Under construction.
-
