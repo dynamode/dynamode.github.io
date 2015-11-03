@@ -8,4 +8,7 @@ tags: []
 
 #### Emily B. Fox
 
+#### Nick Foti
+
+
 ## Past Members
