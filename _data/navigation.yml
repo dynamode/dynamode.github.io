@@ -3,14 +3,14 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /posts/
+#- title: Blog # Hiding Blog For Now
+#  url: /posts/
 
 - title: People
   url: /people/
 
-- title: Projects
-  url: /projects/
+# - title: Projects # Hiding Projects For Now
+#  url: /projects/
 
 - title: Publications
   url: /publications/
@@ -19,4 +19,4 @@
   url: https://github.com/dynamode
 
 - title: Wiki
-  url: https://www.stat.washington.edu/research/group/dyna-mode/doku.php 
+  url: https://www.stat.washington.edu/research/group/dyna-mode/doku.php

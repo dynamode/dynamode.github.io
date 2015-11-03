@@ -15,6 +15,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll/scholar
 
 # Site owner
 owner:
@@ -36,5 +37,29 @@ owner:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
 
+# Jekyll Scholar Bibtex Formatting
+scholar:
+  style: apa 
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: pubs.bib
+  bibliography_template: bib 
+
+  replace_strings: true
+  join_strings:    true
+
+#  details_dir:    bibliography
+#  details_layout: bib_details.html
+#  details_link:   " Details"
+
+  query: "@*"
+
+  repository: ./pdf
+
+# Other Stuff
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

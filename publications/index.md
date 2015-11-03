@@ -4,5 +4,4 @@ title: Publications
 tags: []
 ---
 
-Under construction.
-
+{% bibliography %}
