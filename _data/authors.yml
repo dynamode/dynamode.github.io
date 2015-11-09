@@ -1,19 +1,30 @@
 # Authors
 
-# user_name:
+# userid:
 #   name: First Last
-#   web: www.my-website.com
-#   bio: One line bio goes here
+#   email: my email [at] server 
+#   web: https://www.my-website.com
+#   bio: Few line bio goes here
 #   avatar: photo in /images folder
 #   github:
 #   linkedin:
 
-# example
+# # example
+# tng_enterprise:
+#     name: USS Enterprise
+#     web: https://en.wikipedia.org/wiki/USS_Enterprise_(NCC-1701-D)
+#     bio: 24th century starship. The Enterprise-D is a Galaxy-class ship and the
+#         sixth Federation starship to carry the name Enterprise. 
+#     avatar: TNGEnterprise.jpg
+
 christopher_aicher:
     name: Christopher Aicher
-    web: aicherc.github.io
-    bio: Phd Student in Statistics
-    avatar: W-Logo_Purple_Hex.png
+    email:
+    web: https://aicherc.github.io
+    bio: I am a PhD student in statistics. My research is in approximate 
+        inference for statistical machine learning.
+    avatar: christopher_aicher.png
     github: aicherc
     linkedin: aicherc
+
 

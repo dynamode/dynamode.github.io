@@ -4,11 +4,14 @@ title: People
 tags: []
 ---
 
-## Current Members
+## Faculty
 
-#### Emily B. Fox
+## Postdoctoral Fellows
 
-#### Nick Foti
+## Graduate Students
 
+{% include _bio-template.html userid="christopher_aicher" %}
 
-## Past Members
+<!--- ## Undergraduate Students --->
+
+## Alumni
