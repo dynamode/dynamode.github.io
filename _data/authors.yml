@@ -27,4 +27,12 @@ christopher_aicher:
     github: aicherc
     linkedin: aicherc
 
-
+nfoti:
+    name: Nicholas Foti
+    email:
+    web: https://nfoti.github.io
+    bio: I am a Washington Research Foundation Innovations Postdoctoral Fellow
+         in data science and neuroengineering. I am interested in developing models
+         for high-dimensional time series and developing scalable inference algorithms.
+    avatar: foti_self.jpg
+    github: nfoti
