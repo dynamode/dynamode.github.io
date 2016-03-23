@@ -36,3 +36,13 @@ nfoti:
          for high-dimensional time series and developing scalable inference algorithms.
     avatar: foti_self.jpg
     github: nfoti
+
+chris_xie:
+    name: Chris Xie
+    email:
+    web: https://chrisdxie.github.io
+    bio: I am a PhD student in the Computer Science and Engineering department. I am interested in 
+         statistical machine learning and artificial intelligence.
+    avatar: chris_xie.jpg
+    github: chrisdxie
+    linkedin: chrisdxie
