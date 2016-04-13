@@ -11,6 +11,7 @@ tags: []
 {% include _bio-template.html userid="nfoti" %}
 
 ## Graduate Students
+{% include _bio-template.html userid="atank" %}
 
 {% include _bio-template.html userid="christopher_aicher" %}
 

@@ -17,6 +17,15 @@
 #         sixth Federation starship to carry the name Enterprise. 
 #     avatar: TNGEnterprise.jpg
 
+atank:
+    name: Alex Tank
+    email:
+    web: https://students.washington.edu/alextank/
+    bio: I am a PhD student in Statistics studying statistical learning approaches to multivariate time series and associated scalable inference. 
+    avatar: atank.png
+    github: atank
+    linkedlin: 
+
 christopher_aicher:
     name: Christopher Aicher
     email:
