@@ -25,6 +25,15 @@ yianma:
     avatar: yianma.jpg
     github: yianma
 
+atank:
+    name: Alex Tank
+    email:
+    web: https://students.washington.edu/alextank/
+    bio: I am a PhD student in Statistics studying statistical learning approaches to multivariate time series and associated scalable inference. 
+    avatar: atank.png
+    github: atank
+    linkedin: 
+
 christopher_aicher:
     name: Christopher Aicher
     email:
@@ -54,6 +63,16 @@ chris_xie:
     avatar: chris_xie.jpg
     github: chrisdxie
     linkedin: chrisdxie
+    
+jiaqi_yin:
+    name: Jiaqi Yin
+    email:
+    web: http://students.washington.edu/jiaqiyin/
+    bio: I am a first-year PhD student in the Department of Biostatistcs. My research is multivariate time series.
+    avatar: JiaqiYin.jpg
+    github: placeboo
+    linkedin: jiaqiyin
+
     
 alec_gt:
     name: Alec Greaves-Tunnell
