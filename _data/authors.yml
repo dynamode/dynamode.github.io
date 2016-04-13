@@ -18,12 +18,12 @@
 #     avatar: TNGEnterprise.jpg
 
 atank:
-    name:Alex Tank
+    name: Alex Tank
     email:
-    website:https://students.washington.edu/alextank/
+    website: https://students.washington.edu/alextank/
     bio: I am a PhD student in Statistics studying statistical learning approaches to multivariate time series and 
     associated scalable inference. 
-    avatar:atank.png
+    avatar: atank.png
     github: atank
     linkedlin: 
 
