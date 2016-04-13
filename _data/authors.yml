@@ -17,6 +17,16 @@
 #         sixth Federation starship to carry the name Enterprise. 
 #     avatar: TNGEnterprise.jpg
 
+yianma:
+    name: Yian Ma (Yi-An Ma)
+    email: yianma@u.washington.edu
+    web: http://scholar.google.com/citations?user=26KvT9kAAAAJ&hl=en
+    bio: I am a PhD student in applied math. 
+    My research interests are sampling methods for Bayesian inference, 
+    stochastic processes, dynamical systems, and nonequilibrium statistical mechanics.
+    avatar: yianma.jpg
+    github: yianma
+
 christopher_aicher:
     name: Christopher Aicher
     email:
