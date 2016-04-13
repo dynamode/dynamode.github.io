@@ -12,6 +12,8 @@ tags: []
 
 ## Graduate Students
 
+{% include _bio-template.html userid="yianma" %}
+
 {% include _bio-template.html userid="christopher_aicher" %}
 
 {% include _bio-template.html userid="chris_xie" %}
