@@ -19,6 +19,10 @@ tags: []
 
 {% include _bio-template.html userid="alec_gt" %}
 
+{% include _bio-template.html userid="jiaqi_yin" %}
+
+
+
 <!--- ## Undergraduate Students --->
 
 ## Alumni
